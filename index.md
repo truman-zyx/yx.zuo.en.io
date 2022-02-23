@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-[Chinese Version](https://truman-zyx.github.io/yx.zuo.io/)  
+[中文主页](https://truman-zyx.github.io/yx.zuo.io/)  
 
 ###  Personal information
 My gpa in the freshman year was 3.9047, the top 10% of my grade,and I transferred to software Engineering major. I was exempted from college English exams, and I won five figures of scholarship in the freshman year. I have many software development and machine learning project experiences.
