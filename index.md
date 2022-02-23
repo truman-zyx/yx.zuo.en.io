@@ -4,8 +4,8 @@
       <h1>Yuxin Zuo</h1>
       <p><b>School of Software, Northeastern University</b></p>
       <p><b>Level 20 bachelor degree in reading</b></p>
-      <p><b>Phone：+86 13994345962</b></p>
-      <p><b>Email：truman.yx.zuo@outlook.com</b></p>
+      <p><b>Phone： +86 13994345962</b></p>
+      <p><b>Email：  truman.yx.zuo@outlook.com</b></p>
       <p><b>Address：Northeast University, No.195, Chuangxin Road, Hunnan District, Shenyang</b></p>
     </td>
     <td width="25%">
