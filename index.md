@@ -28,7 +28,7 @@ My gpa in the freshman year was 3.9047, the top 10% of my grade,and I transferre
 6. Fundamentals of deep learning
 
 ###  Honor awards
-1. MIT Summer Program: MIT $1800 scholarship and Northeastern University $9000 Scholarship  
+1. MIT Summer Program: MIT $1800 scholarship and Northeastern University ¥9000 Scholarship  
 2. Internship recommendation letter for Microsoft Technical position (research assistant position)  
 3. Excellent Student of Northeastern University  
 4. Jingwen Zhou Scholarship  
