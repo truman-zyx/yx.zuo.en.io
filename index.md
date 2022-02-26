@@ -41,6 +41,6 @@ My gpa in the freshman year was 3.9047, the top 10% of my grade,and I transferre
 3. Microsoft Technology post (research assistant post) internship, driver's facial recognition and state monitoring project in the direction of face recognition  
 4. The genetic programming of DAO Laboratory, led by Academician Tang Lixin of Northeastern University, combined topological data analysis (GP+TDA) to realize the structured data analysis project  
 5. GEC direction  
-6. Development and maintenance of Dance Finger Technology Android APP, in the direction of sign language And Chinese translation
+6. Development and maintenance of Dance Finger Technology Android APP, in the direction of Sign Language and Chinese translation
 
 
