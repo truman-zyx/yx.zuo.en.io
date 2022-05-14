@@ -5,7 +5,7 @@
       <p><b>School of Software, Northeastern University</b></p>
       <p><b>Level 20 bachelor degree in reading</b></p>
       <p><b>Phone：+86 13994345962</b></p>
-      <p><b>Email：truman.yx.zuo@outlook.com</b></p>
+      <p><b>Email：truman.yx.zuo@gmail.com</b></p>
       <p><b>Address：Northeast University, No.195, Chuangxin Road, Hunnan District, Shenyang</b></p>
     </td>
     <td width="25%">
@@ -17,30 +17,32 @@
 [中文主页](https://truman-zyx.github.io/yx.zuo.io/)  
 
 ###  Personal information
-My gpa in the freshman year was 3.9047, the top 10% of my grade,and I transferred to software Engineering major. I was exempted from college English exams, and I won five figures of scholarship in the freshman year. I have many software development and machine learning project experiences.
+I have a top 3 GPA in my freshman year, transferred my major to Software Engineering, exempted from English exams, received more than $20,000 in scholarships in my freshman year, and have extensive experience in software development and deep learning projects.
 
 ###  Professionalism
-1. Python PyQt5 graphical user interface programming; Data analysis based on Numpy, Pandas, Matplotlib, etc. Machine learning based on SkLearn, XgBoost and other libraries  
-2. Java software development, such as Swing graphical user interface, multi-threading, IO and other technologies  
-3. Based on machine learning of Azure and other cloud platforms, call face library for face recognition, emotion analysis, facial data extraction and other operations  
-4. Matlab programming foundation, Andriod development  
-5. Ielts 6 points, English literature reading and paper writing  
-6. Fundamentals of deep learning
+1.NLP research and deep learning research based on pytorch, transformers, errant, fairseq and other libraries;  
+2.Data analysis and data visualization based on Numpy, Pandas, Matplotlib and other libraries;  
+3.Machine learning based on sklearn, xgboost and other libraries;  
+4.Software development: such as Java Swing GUI; Python PyQt5 GUI; Andriod development; multi-threading, IO and other technology use;  
+5.Mathematical modeling: using Matlab+Python and related algorithms and modeling knowledge;  
+6.Machine learning based on Azure and other cloud platforms, complete face recognition and emotion analysis, facial data extraction, etc. by calling face libraries;  
+7.IELTS first test score of 6, English literature reading and essay writing foundation;  
+
 
 ###  Honor awards
-1. MIT Summer Program: MIT $1800 Scholarship and Northeastern University ¥9000 Scholarship  
-2. Internship recommendation letter for Microsoft Technical position (research assistant position)  
-3. Excellent Student of Northeastern University  
-4. Jingwen Zhou Scholarship  
-5. Second-class scholarship of the university  
-6. Microsoft Student Ambassador
+1.MIT Summer Program-Top3: $9,000 scholarship from Tohoku University + $2,000 scholarship from MIT  
+2.Microsoft technical post (research assistant post) internship recommendation letter for outstanding students at Tohoku University  
+3. Outstanding student of Tohoku University  
+4. Second-class scholarship of the university  
+5. Whaleman Zhou Scholarship  
+6.2021-2022 Microsoft Student Ambassador  
 
 ###  Project research
-1. MIT "AI+X" Blended Learning Base SPOC Machine Learning, Modeling, and Simulation Principles  
-2. MIT "AI+X" Blended Learning Convolutional Neural Networks for Computer Vision & Natural Language Processing - Google Project  
-3. Microsoft Technology post (research assistant post) internship, driver's facial recognition and state monitoring project in the direction of face recognition  
-4. The genetic programming of DAO Laboratory, led by Academician Tang Lixin of Northeastern University, combined topological data analysis (GP+TDA) to realize the structured data analysis project  
-5. GEC direction  
-6. Development and maintenance of Dance Finger Technology Android APP, in the direction of Sign Language and Chinese translation
+1.MIT "AI+X" Blended Learning Base SPOC Machine Learning, Modeling, and Simulation Principles: Machine Learning, Numerical Analysis, Optimization Methods, etc.  
+2.MIT "AI+X" Blended Learning Neural Networks for Computer Vision & Natural Language Processing - Google Project: Natural Language Processing A review of neural network models  
+3. Microsoft (China) technical post (research assistant post) internship: face recognition direction driver facial recognition and status monitoring  
+4. Northeastern University's DAO Lab with academician Lixin Tang: Genetic Programming + Topological Data Analysis (GP+TDA) Structured Data Analysis  
+5. Northeastern University senior undergraduate research training: NLP syntax correction direction  
+6.Dancing Fingers Technology: NLP machine translation direction - sign language Chinese interpreter algorithm(Project leader of Innovative entrepreneurial projects for college students) + Android APP development    
 
 
