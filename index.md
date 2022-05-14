@@ -23,18 +23,19 @@ I have a top 3 GPA in my freshman year, transferred my major to Software Enginee
 1.NLP research and deep learning research based on pytorch, transformers, errant, fairseq and other libraries;  
 2.Data analysis and data visualization based on Numpy, Pandas, Matplotlib and other libraries;  
 3.Machine learning based on sklearn, xgboost and other libraries;  
-4.Software development: such as Java Swing GUI; Python PyQt5 GUI; Andriod development; multi-threading, IO and other technology use;  
-5.Mathematical modeling: using Matlab+Python and related algorithms and modeling knowledge;  
-6.Machine learning based on Azure and other cloud platforms, complete face recognition and emotion analysis, facial data extraction, etc. by calling face libraries;  
-7.IELTS first test score of 6, English literature reading and essay writing foundation;  
+4.Machine learning based on Azure and other cloud platforms, complete face recognition and emotion analysis, facial data extraction, etc. by calling face libraries;  
+5.Mathematical modeling: Matlab+Python , related algorithms and modeling knowledge;  
+6.Software development: such as Java Swing GUI; Python PyQt5 GUI; Andriod development; multi-threading, IO and other technology;  
+7.Overleaf, Git, Colab, SSH, UML, OpenCV and other tools  
+8.IELTS first test score of 6, English literature reading and essay writing foundation;  
 
 
 ###  Honor awards
-1.MIT Summer Program-Top3: $9,000 scholarship from Tohoku University + $2,000 scholarship from MIT  
-2.Microsoft technical post (research assistant post) internship recommendation letter for outstanding students at Tohoku University  
-3.Outstanding student of Tohoku University  
-4.Second-class scholarship of the university  
-5.Whaleman Zhou Scholarship  
+1.MIT Summer Program-Top3: CNY 9,000 scholarship from Northeastern University + USD 2,000 scholarship from MIT  
+2.Microsoft technical post (research assistant post) internship recommendation letter  
+3.Outstanding student of Northeastern University  
+4.Second-class scholarship of the Northeastern University  
+5.Jingwen Zhou Scholarship  
 6.2021-2022 Microsoft Student Ambassador  
 
 ###  Project research
@@ -43,6 +44,6 @@ I have a top 3 GPA in my freshman year, transferred my major to Software Enginee
 3.Microsoft (China) technical post (research assistant post) internship: face recognition direction driver facial recognition and status monitoring  
 4.Northeastern University's DAO Lab with academician Lixin Tang: Genetic Programming + Topological Data Analysis (GP+TDA) Structured Data Analysis  
 5.Northeastern University senior undergraduate research training: NLP Grammatical Error Correction  
-6.Dancing Fingers Technology: NLP machine translation - Sign Language Chinese Translation Algorithm(Project leader of Innovative entrepreneurial projects for college students) + Android APP development    
+6.WUZHI TECH: NLP Machine Translation - Sign Language Chinese Translation Algorithm(Project leader of Innovative entrepreneurial projects for college students) + Android APP development    
 
 
