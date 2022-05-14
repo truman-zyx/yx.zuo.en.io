@@ -42,7 +42,7 @@ I have a top 3 GPA in my freshman year, transferred my major to Software Enginee
 2.MIT "AI+X" Blended Learning Neural Networks for Computer Vision & Natural Language Processing - Google Project: Natural Language Processing A review of neural network models  
 3. Microsoft (China) technical post (research assistant post) internship: face recognition direction driver facial recognition and status monitoring  
 4. Northeastern University's DAO Lab with academician Lixin Tang: Genetic Programming + Topological Data Analysis (GP+TDA) Structured Data Analysis  
-5. Northeastern University senior undergraduate research training: NLP syntax correction direction  
-6.Dancing Fingers Technology: NLP machine translation direction - sign language Chinese interpreter algorithm(Project leader of Innovative entrepreneurial projects for college students) + Android APP development    
+5. Northeastern University senior undergraduate research training: NLP Grammatical Error Correction  
+6.Dancing Fingers Technology: NLP machine translation - Sign Language Chinese Translation Algorithm(Project leader of Innovative entrepreneurial projects for college students) + Android APP development    
 
 
