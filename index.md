@@ -17,7 +17,7 @@
 [中文主页](https://truman-zyx.github.io/yx.zuo.io/)  
 
 ###  Personal information
-I have a top 3 GPA in my freshman year, transferred my major to Software Engineering, exempted from English exams, received more than $20,000 in scholarships in my freshman year, and have extensive experience in software development and deep learning projects.
+I have a top 3 GPA in my freshman year, transferred my major to Software Engineering, exempted from English exams, received more than CNY 20,000 in scholarships in my freshman year, and have extensive experience in deep learning projects and software development.  
 
 ###  Professionalism
 1.NLP research and deep learning research based on pytorch, transformers, errant, fairseq and other libraries;  
